@@ -1,0 +1,13 @@
+G:\Design Pattern\singleton-design-pattern-csharpe\SIngleton-Design-Pattern\Singleton-Design-Pattern\Singleton-Design-Pattern\bin\Debug\netcoreapp3.1\Singleton-Design-Pattern.exe
+G:\Design Pattern\singleton-design-pattern-csharpe\SIngleton-Design-Pattern\Singleton-Design-Pattern\Singleton-Design-Pattern\bin\Debug\netcoreapp3.1\Singleton-Design-Pattern.deps.json
+G:\Design Pattern\singleton-design-pattern-csharpe\SIngleton-Design-Pattern\Singleton-Design-Pattern\Singleton-Design-Pattern\bin\Debug\netcoreapp3.1\Singleton-Design-Pattern.runtimeconfig.json
+G:\Design Pattern\singleton-design-pattern-csharpe\SIngleton-Design-Pattern\Singleton-Design-Pattern\Singleton-Design-Pattern\bin\Debug\netcoreapp3.1\Singleton-Design-Pattern.runtimeconfig.dev.json
+G:\Design Pattern\singleton-design-pattern-csharpe\SIngleton-Design-Pattern\Singleton-Design-Pattern\Singleton-Design-Pattern\bin\Debug\netcoreapp3.1\Singleton-Design-Pattern.dll
+G:\Design Pattern\singleton-design-pattern-csharpe\SIngleton-Design-Pattern\Singleton-Design-Pattern\Singleton-Design-Pattern\bin\Debug\netcoreapp3.1\Singleton-Design-Pattern.pdb
+G:\Design Pattern\singleton-design-pattern-csharpe\SIngleton-Design-Pattern\Singleton-Design-Pattern\Singleton-Design-Pattern\obj\Debug\netcoreapp3.1\Singleton-Design-Pattern.csprojAssemblyReference.cache
+G:\Design Pattern\singleton-design-pattern-csharpe\SIngleton-Design-Pattern\Singleton-Design-Pattern\Singleton-Design-Pattern\obj\Debug\netcoreapp3.1\Singleton-Design-Pattern.AssemblyInfoInputs.cache
+G:\Design Pattern\singleton-design-pattern-csharpe\SIngleton-Design-Pattern\Singleton-Design-Pattern\Singleton-Design-Pattern\obj\Debug\netcoreapp3.1\Singleton-Design-Pattern.AssemblyInfo.cs
+G:\Design Pattern\singleton-design-pattern-csharpe\SIngleton-Design-Pattern\Singleton-Design-Pattern\Singleton-Design-Pattern\obj\Debug\netcoreapp3.1\Singleton-Design-Pattern.csproj.CoreCompileInputs.cache
+G:\Design Pattern\singleton-design-pattern-csharpe\SIngleton-Design-Pattern\Singleton-Design-Pattern\Singleton-Design-Pattern\obj\Debug\netcoreapp3.1\Singleton-Design-Pattern.dll
+G:\Design Pattern\singleton-design-pattern-csharpe\SIngleton-Design-Pattern\Singleton-Design-Pattern\Singleton-Design-Pattern\obj\Debug\netcoreapp3.1\Singleton-Design-Pattern.pdb
+G:\Design Pattern\singleton-design-pattern-csharpe\SIngleton-Design-Pattern\Singleton-Design-Pattern\Singleton-Design-Pattern\obj\Debug\netcoreapp3.1\Singleton-Design-Pattern.genruntimeconfig.cache
